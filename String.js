@@ -1,4 +1,4 @@
-const message ='my name is \'Dheeraj\''
+const message ='my name is \'Dheeraja\''
 console.log(message);
 
 const String1 = new String('Hello');
